@@ -10,7 +10,7 @@ The goal of this exercise was to practice account troubleshooting, Active Direct
 
 | Field          | Details         |
 | -------------- | --------------- |
-| Ticket Number  | #               |
+| Ticket Number  | #208833         |
 | User           | Emily Davis     |
 | Help Topic     | Account Lockout |
 | Department     | IT Support      |
