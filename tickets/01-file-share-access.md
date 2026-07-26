@@ -85,11 +85,11 @@ The ticket was then marked as **Closed** after the issue was resolved.
 
 ### Ticket
 
-![Ticket #1](../screenshots/ticket-1.png)
+<img src="Screenshots/Ticket-1.png" width="700">
 
 ### Ticket Thread
 
-![Ticket #1 Thread](../screenshots/ticket-1-thread.png)
+<img src="Screenshots/Ticket-1-Thread.png" width="700">
 
 ## Lab Environment
 
