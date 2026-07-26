@@ -99,9 +99,9 @@ User communication
 Incident resolution
 Screenshots
 Ticket
-<img src="../Screenshots/ticket-2.png" width="700">
+<img src="../Screenshots/Ticket-2.png" width="700">
 Ticket Thread
-<img src="../Screenshots/ticket-2-thread.png" width="700">
+<img src="../Screenshots/Ticket-2-Thread.png" width="700">
 Lab Environment
 
 This was completed as a simulated IT support scenario in a personal home lab using osTicket.
