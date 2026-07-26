@@ -149,7 +149,7 @@ The ticket was used to practice:
 
 ### Help Topics
 
-<img src="Screenshots/help-topics.png" width="700">
+<img src="Screenshots/help topics.png" width="700">
 
 ## Skills Demonstrated
 
