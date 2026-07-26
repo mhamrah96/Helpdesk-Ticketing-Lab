@@ -1,2 +1,2 @@
 # Helpdesk-Ticketing-Lab
-Hands-on IT support lab using osTicket, Windows, Active Directory, and PowerShell.
+## Built a local IT help desk environment using osTicket and XAMPP to practice ticket management, incident documentation, troubleshooting, user communication, and ticket resolution.
