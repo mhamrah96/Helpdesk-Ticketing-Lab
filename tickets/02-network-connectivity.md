@@ -117,11 +117,11 @@ The ticket was closed after the network issue was resolved.
 
 ### Ticket
 
-<img src="../Screenshots/ticket-2.png" width="700">
+<img src="../Screenshots/Ticket-2.png" width="700">
 
 ### Ticket Thread
 
-<img src="../Screenshots/ticket-2-thread.png" width="700">
+<img src="../Screenshots/Ticket-2-Thread.png" width="700">
 
 ## Lab Environment
 
